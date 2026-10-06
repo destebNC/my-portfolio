@@ -32,4 +32,5 @@ Images go in `img/`, referenced by relative path. Right now that is `myface.jpg`
 
 ## Workflow
 
-- After every round of changes, commit (message in Spanish) and push to `origin main` (`github.com/destebNC/my-portfolio`) without waiting to be asked.
+- After every round of changes, commit and push to `origin main` (`github.com/destebNC/my-portfolio`) without waiting to be asked.
+- Commits go under the user's name only (the repo's git identity, `danielEste`), with **no** `Co-Authored-By` line or any other mention of Claude. Messages in Spanish, short and natural, in the first person, as Daniel would write them (e.g. "Añado el apartado del juego"). Don't use bullet lists of changes.
